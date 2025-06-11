@@ -81,9 +81,25 @@ This proposal is subject to TREASURY-04a in that it defines a Cardano blockchain
 ## Conclusion
 _Use this final section to clearly state the long-term value your project brings to the Cardano ecosystem. Reinforce your team’s ability to deliver with transparency and thoughtful governance. Be candid about assumptions, the timelines, and the risks, then show how your team is prepared to manage that. Emphasize the tangible benefits to the ecosystem and the measurable impact the community can expect in return for its investment. Your conclusion should leave the feeling that funding your project is both a responsible and forward-looking choice for Cardano._
 
+<br>
 
-Metadata anchor link
+**Metadata Anchor Link**<br>
+[ipfs://bafkreibqma7t2k4rcywvx5afukahhi3dp2so2ugh7t4ljuawhanvk7sr34](ipfs://bafkreibqma7t2k4rcywvx5afukahhi3dp2so2ugh7t4ljuawhanvk7sr34)
 
-Metadata anchor hash
+**Metadata Anchor Hash**  
+`7d2f344f3651a8372ad603abf11fcb310fb3c5154a6592591d1ff97d951156e3`
 
-Supporting links
+**Supporting Links:**
+
+**PRAGMA Maintainer Committee Framework**  
+[ipfs://bafkreiabxyva5lfm6zztg7tnktxvvbbucljrce7hlrp4p6hropqzfaip3y](ipfs://bafkreiabxyva5lfm6zztg7tnktxvvbbucljrce7hlrp4p6hropqzfaip3y)
+
+**Amaru Detailed Budget Proposal for 2025**  
+[ipfs://bafybeicyqwjcg4x52l4ml5ocjlqnproqdjgfbguxdge4saxxvu2hidzvpq](ipfs://bafybeicyqwjcg4x52l4ml5ocjlqnproqdjgfbguxdge4saxxvu2hidzvpq)
+
+**Cardanoブロックチェーン・エコシステム予算：Amaru 2025年度**  
+[ipfs://bafybeihigkjin5njp7fgpehzfh6n4dtzv2xetpxwkwmskzl2xv2zx2fjfu](ipfs://bafybeihigkjin5njp7fgpehzfh6n4dtzv2xetpxwkwmskzl2xv2zx2fjfu)
+
+**Amaruノード開発2025年度**  
+[ipfs://bafybeig7w6zfv5zuxrtgmxlr7bzyftjbrsc5pormmjaeg2aqgzx53a5ppq](ipfs://bafybeig7w6zfv5zuxrtgmxlr7bzyftjbrsc5pormmjaeg2aqgzx53a5ppq)
+
